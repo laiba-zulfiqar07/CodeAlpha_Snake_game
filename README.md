@@ -19,11 +19,6 @@ A wall surrounding the play area.
 Score tracking to keep a record of your achievements.
 Randomly generated food for the snake to eat.
 Game-over screen and high-score display.
-Installation
-To run the game, you will need a C++ compiler installed on your system. Follow these steps to set up and play the game:
-git clone https://github.com/your-username/snake-game.git
-g++ snake_game.cpp -o snake_game
-./snake_game
 How to Play
 Use the arrow keys or the W, A, S, and D keys to control the snake's direction.
 Move the snake to collect the food, which makes it grow longer and increases your score.
