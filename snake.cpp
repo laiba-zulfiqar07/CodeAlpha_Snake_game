@@ -1,9 +1,3 @@
-/*
-snake game 
-author-SKD
-2013
-
-*/
 #include <iostream>
 #include <windows.h>
 #include <stdlib.h>
